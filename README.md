@@ -1,3 +1,4 @@
+![festival_electronics_sale](https://raw.githubusercontent.com/rohit6196/Festival-sale-analysis-using-SQL-/refs/heads/main/festival%20sale%20analysis.png)
 
  🎉 Festival Electronics Sale Analysis 📊
 
